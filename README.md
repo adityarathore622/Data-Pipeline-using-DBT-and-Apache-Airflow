@@ -19,7 +19,7 @@ This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT 
 │   │   └── airflow.cfg              # ⚙️ Airflow configuration
 │   ├── custom_postgres/
 │   │   ├── macros/
-│   │   │   ├── film_ratings_macro.sql # 📊 SQL macros for DBT transformations
+│   │   │   └── film_ratings_macro.sql # 📊 SQL macros for DBT transformations
 │   │   ├── models/example/
 │   │   │   ├── actors.sql
 │   │   │   ├── film_actors.sql
@@ -28,15 +28,16 @@ This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT 
 │   │   │   ├── specific_movie.sql
 │   │   │   ├── schema.yml
 │   │   │   ├── sources.yml
-│   │   │   ├── dbt_project.yml
+│   │   │   └── dbt_project.yml
 │   ├── elt/
 │   │   ├── Dockerfile                    
 │   │   ├── elt_script.py                  # 📝 Python script to load data from source to destination
 │   │   ├── start.sh                        # 🚀 Shell script to initialize services
 │   ├── source_db_init/
-│   │    ├── init.sql                        # 🎯 SQL script to initialize source database
+│   │   └── init.sql                        # 🎯 SQL script to initialize source database
 │   ├── docker-compose.yml              # ⚙️ Docker Compose file for setting up the database
 │   ├── Dockerfile                      # 🐳 Docker configuration for ELT process
+│   └── start.sh                   
 ├── README.md                           # 📃 Project documentation
 ```
 
