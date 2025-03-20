@@ -1,4 +1,4 @@
-# 🚀 Data Engineering Pipeline using DBT and Apache Airflow
+# 🚀 Data Pipeline using DBT and Apache Airflow
 
 ## 📌 Project Overview
 This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT (Data Build Tool) and Apache Airflow**. It integrates **Postgres, Docker, and DBT** to automate data workflows, orchestrate transformations, and manage dependencies efficiently.
@@ -73,8 +73,8 @@ This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT 
 **Aditya Rathore**
 
 ## 🔗 Connect with Me
-- ** GitHub**: [Aditya Rathore](https://github.com/adityarathore622)
-- ** LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [Aditya Rathore](https://github.com/adityarathore622)
+- **LinkedIn**: [Aditya RAthore](https://linkedin.com/in/your-profile)
 
 ---
 🌟 *Feel free to contribute or raise issues in the repository!* 
