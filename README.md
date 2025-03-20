@@ -30,13 +30,13 @@ This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT 
 │   │   │   ├── sources.yml
 │   │   │   ├── dbt_project.yml
 │   ├── elt/
-│   │   ├── Dockerfile                    # 🐳 Docker configuration for ELT process
+│   │   ├── Dockerfile                    
 │   │   ├── elt_script.py                  # 📝 Python script to load data from source to destination
 │   │   ├── start.sh                        # 🚀 Shell script to initialize services
 │   ├── source_db_init/
 │   │    ├── init.sql                        # 🎯 SQL script to initialize source database
 │   ├── docker-compose.yml              # ⚙️ Docker Compose file for setting up the database
-│   ├── Dockerfile   
+│   ├── Dockerfile                      # 🐳 Docker configuration for ELT process
 ├── README.md                           # 📃 Project documentation
 ```
 
