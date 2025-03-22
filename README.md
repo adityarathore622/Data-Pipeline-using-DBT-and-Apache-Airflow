@@ -75,7 +75,7 @@ This project sets up an **ELT (Extract, Load, Transform) pipeline** using **DBT 
 
 ## 🔗 Connect with Me
 - **GitHub**: [Aditya Rathore](https://github.com/adityarathore622)
-- **LinkedIn**: [Aditya RAthore](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Aditya Rathore](https://linkedin.com/in/your-profile)
 
 ---
 🌟 *Feel free to contribute or raise issues in the repository!* 
